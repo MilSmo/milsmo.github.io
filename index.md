@@ -4,6 +4,10 @@
 
 Currently I study at AGH University of Science and Technology.
 
+## GITy project:
+Together with [kingawr123](https://kingawr123.github.io), [jakubbanach](https://jakubbanach.github.io) and [NarzeKajka](https://narzekajka.github.io) we created an ‘alpha’ version of the popular game called 2048. This game is some kind of a kludge. You don’t have to worry about any special equipment or hardware since everything happens in the computer console.  In the future, as we become more advanced programmers, we are planning to improve the interface and correct errors. We encourage you to give our game a try! Don’t forget to share your opinion in the [survey](https://docs.google.com/forms/d/1-IJ6aJIG0tyi8ol6AIiDRxFUSnC-CWdYDXbJGauGqko/edit). Thanks a lot! 
+ 
+
 ## My hobbies:
 - Business
 - Travelling
